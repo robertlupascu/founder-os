@@ -25,3 +25,11 @@ Build real skills through real projects.
 ---
 
 *"Don't study tools. Solve problems."*
+
+## Session Log
+
+### Session 4
+
+- Created my first GitHub repository.
+- Cloned the repository to my local machine.
+- Installed Visual Studio Code.
