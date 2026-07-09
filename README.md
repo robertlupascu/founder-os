@@ -1,35 +1,52 @@
 # 🧠 Founder OS
 
-Welcome to Founder OS.
+> My personal operating system for learning, building and scaling real-world projects.
 
-This repository contains my personal operating system for learning, building, documenting and scaling real-world projects.
+---
 
-## 🎯 Mission
+## 📌 About
 
-Build real skills through real projects.
+Founder OS is my personal ecosystem for developing high-value technical and business skills through practical projects instead of theoretical learning.
 
-## 🚀 Current Focus
+The objective is simple:
+
+> Build. Learn. Document. Improve.
+
+---
+
+## 🎯 Current Projects
 
 - Founder OS Academy
-- Learning Git & GitHub
-- Building long-term assets
-
-## 📚 Projects
-
-- Founder OS
 - ClassFlow
-- BARF
+- BARF Business
 - Sports Brand
-- Estetican
+- Estetican by Diana
+
+---
+
+## 🛠️ Tech Stack
+
+- Git
+- GitHub
+- Visual Studio Code
+- Notion
+- NotebookLM
+- ChatGPT
+
+---
+
+## 📚 Learning Journey
+
+This repository evolves alongside my Founder OS Academy bootcamp.
+
+Every improvement, document and project reflects real progress made during the journey.
+
+---
+
+## 🚀 Mission
+
+Create systems, not chaos.
 
 ---
 
 *"Don't study tools. Solve problems."*
-
-## Session Log
-
-### Session 4
-
-- Created my first GitHub repository.
-- Cloned the repository to my local machine.
-- Installed Visual Studio Code.
